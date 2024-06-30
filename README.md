@@ -9,7 +9,7 @@
 
 - 🌱 アメリカの<a href="https://twin-cities.umn.edu/">ミネソタ大学</a>に交換留学していました(2022/01〜2022/12)。
 
-- 👨‍💻 <a href="https://www.fabercompany.co.jp/">株式会社Faber Compan</a>でソフトウェアエンジニアインターンをしています(2023年10月〜)。
+- 👨‍💻 <a href="https://www.fabercompany.co.jp/">株式会社Faber Company</a>でソフトウェアエンジニアインターンをしています(2023年10月〜)。
 
 - 💬 LLMに興味があり、<a href="https://tokyotech-llm.github.io/">TokyoTech-LLMの開発プロジェクト</a>に参加しています。
 
