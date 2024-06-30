@@ -15,7 +15,7 @@
 
 - 🏕️ <a href="https://www.ipa.go.jp/jinzai/security-camp/2021/zenkoku/index.html">セキュリティキャンプ全国大会2021</a>(倍率3.8倍)に参加するなど、幅広く活動してきました。
 
-- ⚡ <a href="https://jphacks.com/">JPHACKS</a>に参加し、Best Hack Day Awardを受賞しました。ユニークなアイデアを考えるのが得意で、そのアイデアを形にすることに情熱を持っています。
+- ⚡ <a href="https://jphacks.com/">JPHACKS2023</a>に参加し、Best Hack Day Awardを受賞しました。ユニークなアイデアを考えるのが得意で、そのアイデアを形にすることに情熱を持っています。
 
 - 🏋️ チームで働くことでより優れたプロダクトを作ることができると信じて、効果的にチームを率いる方法を追い求めています。
 
