@@ -11,7 +11,7 @@
 
 - 👨‍💻 <a href="https://www.fabercompany.co.jp/">株式会社Faber Company</a>でソフトウェアエンジニアインターンをしています(2023年10月〜)。
 
-- 💬 LLMに興味があり、<a href="https://tokyotech-llm.github.io/">TokyoTech-LLMの開発プロジェクト</a>に参加しています。
+- 💬 LLMの研究をしています。<a href="https://tokyotech-llm.github.io/">TokyoTech-LLMの開発プロジェクト</a>にも携わっています。
 
 - 🏕️ <a href="https://www.ipa.go.jp/jinzai/security-camp/2021/zenkoku/index.html">セキュリティキャンプ全国大会2021</a>(倍率3.8倍)に参加するなど、幅広く活動してきました。
 
