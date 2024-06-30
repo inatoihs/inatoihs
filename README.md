@@ -7,7 +7,7 @@
 
 - 🔭 広島大学 情報科学部 情報科学科 卒業(GPA上位10%以内)
 
-- 🌱 アメリカの<a href="https://twin-cities.umn.edu/">ミネソタ大学</a>に2022年1月から12月まで交換留学していました。
+- 🌱 アメリカの<a href="https://twin-cities.umn.edu/">ミネソタ大学</a>に交換留学していました(2022/01〜2022/12)。
 
 - 👨‍💻 <a href="https://www.fabercompany.co.jp/">株式会社Faber Compan</a>でソフトウェアエンジニアインターンをしています(2023年10月〜)。
 
