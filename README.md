@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🏫 <a href="https://www.nlp.c.titech.ac.jp/">東京工業大学 情報理工学院 岡崎研究室</a>修士1年
+- 🏫 東京工業大学 情報理工学院<a href="https://www.nlp.c.titech.ac.jp/"> 岡崎研究室</a>修士1年
 
 - 🔭 広島大学 情報科学部 情報科学科 卒業(GPA上位10%以内)
 
