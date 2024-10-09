@@ -27,14 +27,14 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,flask,go,java" />
+    <img src="https://skillicons.dev/icons?i=py,flask,go,java,ruby,rails" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,vuejs,flutter" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,vuejs,flutter" />
   </a>
 </p>
 
