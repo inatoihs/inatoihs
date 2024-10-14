@@ -27,7 +27,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,flask,go,java,ruby,rails" />
+    <img src="https://skillicons.dev/icons?i=py,flask,fastapi,go,java,ruby,rails" />
   </a>
 </p>
 
